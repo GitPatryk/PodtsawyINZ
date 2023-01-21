@@ -6,7 +6,11 @@ pięć i sześć, pięć i sześć,
 Wcale lodów nie chciał jeść.
 siedem, osiem, siedem, osiem, 
 Wciąż o kości tylko prosił.
-dziewięć, 10, dziewięć, 10,
+<<<<<<< HEAD
+dziewięć, dziesięć, dziewięć, dziesięć,
+=======
+dziewięć, dziesięć, dziewięć, dziesięć,
+>>>>>>> 6194487 (Zmiana cyfry 10 na slowa w pliku pies.txt)
 Kto znas kości mu przyniesie?
 Może ja? może ty? 
 Licz od nowa raz, dwa, trzy ...
